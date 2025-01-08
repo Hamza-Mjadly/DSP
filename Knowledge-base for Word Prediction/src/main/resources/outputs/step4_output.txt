@@ -1,0 +1,40 @@
+step4 by itself
+
+be or of	0.554539
+in the world	0.5704724
+people in the	0.4526096
+time at same	0.47424278
+the people in	0.48995283
+the world United	0.45542997
+States of a	0.55499715
+long time at	0.5507151
+of a long	0.47227016
+of the people	0.5345751
+or of the	0.45960417
+world United States	0.48863715
+United States of	0.49213487
+a long time	0.4917606
+to be or	0.9885575
+
+
+
+step4pipeline :
+be or of	0.554539
+in the world	0.5704724
+people in the	0.4526096
+time at same	0.47424278
+the people in	0.48995283
+the world United	0.45542997
+States of a	0.55499715
+long time at	0.5507151
+of a long	0.47227016
+of the people	0.5345751
+or of the	0.45960417
+world United States	0.48863715
+United States of	0.49213487
+a long time	0.4917606
+to be or	0.9885575
+
+
+
+
